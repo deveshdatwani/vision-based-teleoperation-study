@@ -1,0 +1,8 @@
+prefix=/home/deveshdatwani/vision-based-teleoperation-study/devel
+
+Name: gesture_control
+Description: Description of gesture_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

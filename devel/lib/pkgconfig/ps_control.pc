@@ -1,0 +1,8 @@
+prefix=/home/deveshdatwani/vision-based-teleoperation-study/devel
+
+Name: ps_control
+Description: Description of ps_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
